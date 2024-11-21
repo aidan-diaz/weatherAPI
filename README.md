@@ -1,4 +1,4 @@
-# Simple to Do List Site
+# Weather API Application
 
 ![Thumbnail](css/assets/thumbnail.png)
 
